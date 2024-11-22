@@ -1,4 +1,5 @@
 **My Cute Vector Database**
+
 A database so smart, it'll store your vectors and still have room for your existential crises.
 
 
